@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Prashanthdamara
 - 👀 I’m interested in datascience
-- 🌱 I’m currently learning SQL
+- 🌱 I’m currently learning Tableau
 - 💞️ I’m looking to collaborate on new projects related to dataScience
 - 📫 How to reach me dprashanthkumar99@gmail.com
 
